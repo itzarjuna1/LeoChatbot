@@ -17,7 +17,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/Rishubot/RishuChatbot/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/chalcogen645/Chatbot/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
