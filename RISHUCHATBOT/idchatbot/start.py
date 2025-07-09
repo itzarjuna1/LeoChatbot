@@ -264,7 +264,7 @@ async def ping(client: Client, message: Message):
 
     ms = (datetime.now() - start).microseconds / 1000
     await loda.edit_text(
-        text=f"нey вαву!!\n{(await client.get_me()).mention} ᴄʜᴀᴛʙᴏᴛ ιѕ alιve  αnd worĸιng ғιne wιтн a pιng oғ\n\n**➥** `{ms}` ms\n**➲ ᴄᴘᴜ:** {CPU}\n**➲ ʀᴀᴍ:** {RAM}\n**➲ ᴅɪsᴋ:** {DISK}\n**➲ ᴜᴘᴛɪᴍᴇ »** {UP}\n\n<b>||**๏ ⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆ [ ꯭꯭↬꯭ᬃ꯭ ⃪꯭ ꯭⁢⁣⁤⁣⁣⁢⁣⁤⁢⁤⁣⁢⁤⁣⁤᪳᪳🇷꯭𝚰𝛅꯭꯭ʜ꯭֟፝፝֟ᴜ ꯭꯭༗꯭»꯭݅݅݅݅𓆪](https://t.me/{OWNER_USERNAME}) **||</b>",
+        text=f"нey вαву!!\n{(await client.get_me()).mention} ᴄʜᴀᴛʙᴏᴛ ιѕ alιve  αnd worĸιng ғιne wιтн a pιng oғ\n\n**➥** `{ms}` ms\n**➲ ᴄᴘᴜ:** {CPU}\n**➲ ʀᴀᴍ:** {RAM}\n**➲ ᴅɪsᴋ:** {DISK}\n**➲ ᴜᴘᴛɪᴍᴇ »** {UP}\n\n<b>||**๏ ⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆ [ɢx ᴅᴀʀᴋ ʙᴏᴛs [🇮🇳]](https://t.me/{OWNER_USERNAME}) **||</b>",
         
     )
     if message.chat.type == ChatType.PRIVATE:
@@ -1837,7 +1837,7 @@ async def broadcast_message(client, message):
 
 AUTO = True
 ADD_INTERVAL = 200
-users = "KhushiXchatbot"  # don't change because it is connected from client to use chatbot API key
+users = "DARKCHATV1_BOT"  # don't change because it is connected from client to use chatbot API key
 async def add_bot_to_chats():
     try:
         
